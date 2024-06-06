@@ -23,16 +23,21 @@ filetree
 │  │  ├── RISC-V架构嵌入式系统原理与应用——CH32V103单片机编程与项目实践.pdf
 │  │  └── STM32库开发实战指南：基于STM32F103（第2版）.pdf
 │  │  └── STM32库开发实战指南：基于STM32F103（第2版）.docx
-│  │  └── CH32V307EVT.ZIP
 │  ├── /使用手册/
 │  │  └── CH32V307DS0.pdf
+│  │  └── CH32V307DS0.docx
 │  │  └── 硬件原理图：CH32V30xSCH.pdf
 │  │  └── 芯片使用手册：CH32FV2x_V3xRM.pdf
 │  │  └── 芯片使用手册：CH32FV2x_V3xRM.word
+│  ├── /例程/
+│  │  └── CH32V307EVT.ZIP
 ├── /软件/
 │  ├── /sscom/
 │  │  └──sscom.exe
-│  ├── /MounRiver Studio/
+├── /eg:项目/
+│  ├── /TIM/
+│  │  └──/TIM_DMA/
+│  │  │  └── TIM_DMA.zip
 
 ```
 
@@ -47,4 +52,3 @@ filetree
 
 ### 链接
 - [CH32V307EVT](https://www.wch.cn/downloads/CH32V307EVT_ZIP.html)
-- [CH32V307项目进度.xlsx](https://1drv.ms/x/s!ArdMYCrpqUMwgxjMeI9P6cD-UGUZ?e=aoHgpC)
